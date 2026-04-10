@@ -1,0 +1,6 @@
+shiny
+databricks-sql-connector
+pandas
+plotly
+shinywidgets
+posit-sdk @ git+https://github.com/posit-dev/posit-sdk-py.git@connect-cloud-auth
